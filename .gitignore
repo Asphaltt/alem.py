@@ -1,0 +1,17 @@
+*.pyc
+*.pyo
+/build/
+/alembic/
+dist/
+/docs/build/output/
+*.orig
+alembic.ini
+.venv
+*.egg-info
+.coverage
+coverage.xml
+.tox
+*.patch
+/scratch
+/scratch_test_*
+/test_schema.db
